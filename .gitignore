@@ -2,3 +2,5 @@ ThinkPHP/
 vendor/
 composer.lock
 composer.phar
+Test/Runtime/
+App/Runtime/
